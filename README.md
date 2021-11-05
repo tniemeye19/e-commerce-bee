@@ -55,8 +55,8 @@ This walkthrough video demonstrates the POST, PUT, and DELETE routes for categor
 In order to be able to continue to the usage section, please follow the following instructions below:
 - This project requires that once you download/clone the code from this repository, you create a .env file with information structured like so:
  - `DB_NAME='ecommerve_db'`
-    `DB_USER='root'`
-    `DB_PW='*'`
+ - `DB_USER='root'`
+ - `DB_PW='*'`
     - please input your mysql password where the * is located
 - This app requires certain dependencies, so be sure to run the following commands
     - `npm init`
